@@ -1,0 +1,25 @@
+.labels {
+	-fx-font: 16px Calabri;
+	-fx-font-weight: bold;
+	-fx-stroke: black;
+}
+
+.error {
+	-fx-font: 14px Calabri;
+	-fx-text-fill: red;
+}
+
+.buttons {
+	-fx-font: 16px Calabri;
+	-fx-font-weight: bold;
+	-fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+	-fx-background-insets: 0 0 -1 0, 0, 1, 2;
+	-fx-background-radius: 3px, 3px, 2px, 1px;
+}
+
+.imgview {
+	-fx-padding: 10;
+	-fx-background-color: linear-gradient(to top, #dedede 0%, rgb(205,205,205) 100%);
+	-fx-background-radius: 2;
+}
+

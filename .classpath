@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="gfx"/>
+	<classpathentry kind="lib" path="text"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-rasterizer.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-slideshow.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-squiggle.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-svgpp.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-ttf2svg.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Jeff/workspace/DCC Project/gfx"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
